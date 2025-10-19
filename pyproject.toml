@@ -12,6 +12,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "numpy>=2.3.4",
     "pandas>=2.3.3",
+    "pyarrow>=21.0.0",
 ]
 
 [project.urls]
